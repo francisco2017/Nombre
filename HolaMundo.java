@@ -4,6 +4,7 @@ public class HolaMundo{
 	
 	System.out.println("franciscoJavier.");
 	System.out.println("edad: 51");
+	System.out.println("Localidad: León");
 	}
 
 }
